@@ -22,6 +22,12 @@
 - math
 
 >The math module in python provides function to do math calculation such as rounding
+- datetime
+
+>The datetime module in python provides function to manipulated data with date and time format
 - sys
 
 >The sys module in python provides function to interacting with system
+-random
+
+>The random module in python provides function to make a random number from interval we assign
