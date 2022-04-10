@@ -10,4 +10,18 @@
 >   In Python, classes are defined using the class keyword. Class is made to represent a certain object, so it will be assist in the process of solving complex problems by State the physical characteristics of a problem. Classes in Python The default has a public Access Specifier.
 >   Inside the class there are class variables. A class variable is a variable that shared or shared by all instances (children) of the class. class variable defined inside the class, but outside the methods in the class the.
 >   Then there is the object. Object is an instance or embodiment of a class. If class is the prototype, and object is the finished product.
-4. library
+3. library
+
+>   library is a reusable chunk of code that you may want to include in your programs/ projects. library actually is a module that create by other people to simplify code program. library that often use is:
+- os
+
+>The OS module in Python provides functions for interacting with the operating system.
+- io
+
+>The io module provides Python's main facilities for dealing with various types of input or output
+- math
+
+>The math module in python provides function to do math calculation such as rounding
+- sys
+
+>The sys module in python provides function to interacting with system
